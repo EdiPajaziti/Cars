@@ -19,7 +19,7 @@ nav ul {
 
 nav li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 15px;
 }
 
 .section {
@@ -32,7 +32,6 @@ footer {
     padding: 20px 0;
     text-align: center;
     position: absolute;
-    bottom: 1;
     width: 100%;
 }
 
@@ -41,15 +40,6 @@ footer {
     justify-content: space-around;
 }
 
-.footer-section ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-.footer-section a {
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-}
 
 .footer-bottom {
     margin-top: 10px;
@@ -68,31 +58,18 @@ footer {
 .car img {
     max-width: 100%;
     height: auto;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 13px;
+    
 }
 
-.car h3 {
-    margin: 10px 0;
-}
+
 
 .car p {
     margin: 5px 0;
 }
 
-.btn {
-    background-color: #525252;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease-in-out;
-}
 
-.btn:hover {
-    background-color: #868686;
-}
+
+
 .cars{
     display:flex;
     flex-wrap: wrap;
