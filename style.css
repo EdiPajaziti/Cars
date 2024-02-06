@@ -48,7 +48,7 @@ footer {
 .car {
     background-color: rgb(218, 218, 218);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 8pxpx;
+    border-radius: 8px;
     overflow: hidden;
     margin: 10px;
     width: 300px;
